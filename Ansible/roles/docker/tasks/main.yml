@@ -4,7 +4,7 @@
   docker_image:
     name: ayoubmahou/devops
     build:
-      path: /var/lib/jenkins/workspace/cd
+      path: /var/lib/jenkins/workspace/hey
       pull: no
     source: build
     state: present
