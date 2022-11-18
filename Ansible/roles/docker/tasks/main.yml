@@ -4,7 +4,7 @@
   docker_image:
     name: mahouESPRIT/devops
     build:
-      path: /var/lib/jenkins/workspace/hey
+      path: /var/lib/jenkins/workspace/cd
       pull: no
     source: build
     state: present
